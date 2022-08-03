@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_dumpling.mk
+    $(LOCAL_DIR)/lmodroid_dumpling.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_dumpling-user \
-    lineage_dumpling-userdebug \
-    lineage_dumpling-eng
+    lmodroid_dumpling-user \
+    lmodroid_dumpling-userdebug \
+    lmodroid_dumpling-eng
